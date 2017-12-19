@@ -1,0 +1,11 @@
+{
+  "name": "get-coinbase-data-and-save-it-on-firebase",
+  "description": "Periodically get and save coinbase data on Firebase",
+  "dependencies": {
+    "coinbase": "^2.0.6",
+    "firebase-admin": "^4.1.1",
+    "firebase-functions": "^0.5.9",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
